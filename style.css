@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+body {
+    color: red;
+    font-size: xx-large;
+}
+
+.navbar {
+    height: 10%;
+    width: 100%;
+    background-color: blue;
+    color: red;
+}
+
+.navbar-left {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navbar-rigth {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
